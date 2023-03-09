@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Flamingo, roseat","category":"Blue"},
+{"id":2,"name":"Clark's nutcracker","category":"Khaki"},
+{"id":3,"name":"Cat, african wild","category":"Green"},
+{"id":4,"name":"Roe deer","category":"Violet"},
+{"id":5,"name":"Red-winged blackbird","category":"Pink"},
+{"id":6,"name":"Anteater, giant","category":"Violet"},
+{"id":7,"name":"Ring-tailed coatimundi","category":"Crimson"},
+{"id":8,"name":"Owl, madagascar hawk","category":"Puce"},
+{"id":9,"name":"Great skua","category":"Aquamarine"},
+{"id":10,"name":"House crow","category":"Khaki"},
+{"id":11,"name":"Bobcat","category":"Violet"},
+{"id":12,"name":"Red brocket","category":"Blue"},
+{"id":13,"name":"Gray duiker","category":"Blue"},
+{"id":14,"name":"Golden-mantled ground squirrel","category":"Red"},
+{"id":15,"name":"Puffin, horned","category":"Yellow"},
+{"id":16,"name":"Stork, greater adjutant","category":"Purple"},
+{"id":17,"name":"Tammar wallaby","category":"Mauv"},
+{"id":18,"name":"King cormorant","category":"Turquoise"},
+{"id":19,"name":"Asian water dragon","category":"Pink"},
+{"id":20,"name":"Trumpeter, dark-winged","category":"Green"}
+]
+}
